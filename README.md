@@ -32,9 +32,9 @@ Input document → sentences similarity → weight sentences → select sentence
 Input article → split into sentences → remove stop words → build a similarity matrix → generate rank based on matrix → pick top N sentences for summary.
 
 ### How to run:
-1.Clone the repository with cmd: git clone 
+1.Clone the repository with cmd: git clone https://github.com/Vicky1-bot/Text-summarizer-using-NLP.git 
 
-2.Setup the virtual environment and activate it
+2.Setup the virtual environment and activate it.
 
 3.Install the requirements using cmd: pip install -r requirements.txt
 
